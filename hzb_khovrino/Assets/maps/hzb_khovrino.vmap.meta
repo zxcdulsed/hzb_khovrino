@@ -17,7 +17,7 @@
       "IsStandaloneOnly": false,
       "Metadata": {
         "SingleAssetSource": "maps/hzb_khovrino.vmap",
-        "ParentPackage": "facepunch.walker"
+        "ParentPackage": ""
       }
     }
   }
