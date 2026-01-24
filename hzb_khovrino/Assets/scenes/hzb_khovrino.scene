@@ -618,7 +618,7 @@
               0
             ],
             "Materials": [
-              "materials/snow/snow_a.vmat",
+              "materials/grass/floor_grass_wetdirt_cliff_blend_a.vmat",
               "materials/dev/reflectivity_30.vmat"
             ]
           },
@@ -63033,7 +63033,7 @@
   "Title": null,
   "Description": null,
   "__references": [
-    "facepunch.snowa#130662"
+    "facepunch.floor_grass_wet_cliff_a#18757"
   ],
   "__version": 3
 }
