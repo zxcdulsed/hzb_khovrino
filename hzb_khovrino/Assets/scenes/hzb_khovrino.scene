@@ -148429,7 +148429,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Box (759)",
-      "Position": "2511.999,2720,2400",
+      "Position": "2511.999,2720,2416",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "",
@@ -148454,7 +148454,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Topology": "H4sIAAAAAAAACl2QCQ7CMAwEp4Qj3NBy/f+laMRGsohUVbFn1+t04ANs+Z0VsM69AwfgBFyAKZ9MPXdgk3qLnsI+Um/h/me9i2ZXfFvYOazafTJN0XRgKZmPyWtfXvYVL73PZRd52WdYPa7xtC8veys7u6t17/7t6Tn0ZtFjvIXZR895zjKjPWf4NiOrGt+ivpXZ3XnozaOndVn9vvVkkTjEAQAA",
-            "Position": "2511.999,2720,2400",
+            "Position": "2511.999,2720,2416",
             "Rotation": "0,0,0,1",
             "Positions": [
               "-111.9983,-928.0002,16",
@@ -148571,10 +148571,10 @@
             "TextureOffset": [
               "0.02148438,0.0004882812",
               "0.02148438,0.0004882812",
-              "0,0",
-              "0.001953125,0",
-              "258.9541,511.999",
-              "0.02246094,0"
+              "0,64",
+              "0.001953125,64",
+              "258.9541,63.99902",
+              "0.02246094,64"
             ],
             "MaterialIndex": [
               0,
@@ -149694,7 +149694,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Box (841)",
-      "Position": "-1840.001,2720,2400",
+      "Position": "-1840.001,2720,2416",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "",
@@ -149719,7 +149719,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Topology": "H4sIAAAAAAAACl2QCQ7CMAwEp4Qj3NBy/f+laMRGsohUVbFn1+t04ANs+Z0VsM69AwfgBFyAKZ9MPXdgk3qLnsI+Um/h/me9i2ZXfFvYOazafTJN0XRgKZmPyWtfXvYVL73PZRd52WdYPa7xtC8veys7u6t17/7t6Tn0ZtFjvIXZR895zjKjPWf4NiOrGt+ivpXZ3XnozaOndVn9vvVkkTjEAQAA",
-            "Position": "-1840.001,2720,2400",
+            "Position": "-1840.001,2720,2416",
             "Rotation": "0,0,0,1",
             "Positions": [
               "-111.9978,-928.0002,16",
@@ -149811,35 +149811,35 @@
             ],
             "TextureUAxis": [
               "1,0,0",
-              "1,0,0",
+              "1,-0,0",
               "0,-1,0",
               "0,1,0",
-              "0,-1,0",
-              "1,0,0"
+              "-0.6139375,-0.7893546,0",
+              "1,-0,0"
             ],
             "TextureVAxis": [
-              "0,-1,0",
-              "0,-1,0",
+              "-0,-1,-0",
+              "-0,-1,-0",
               "0,0,-1",
+              "-0,0,-1",
               "0,0,-1",
-              "0,0,-1",
-              "0,0,-1"
+              "-0,0,-1"
             ],
             "TextureScale": [
+              "0.2499993,0.25",
+              "0.2499993,0.25",
               "0.25,0.25",
               "0.25,0.25",
-              "0.25,0.25",
-              "0.25,0.25",
-              "0.25,0.25",
-              "0.25,0.25"
+              "0.3167144,0.25",
+              "0.2499993,0.25"
             ],
             "TextureOffset": [
-              "0,0",
-              "0,0",
-              "0,0",
-              "0,0",
-              "0,0",
-              "0,0"
+              "0.02148438,511.999",
+              "0.02148438,511.999",
+              "511.998,64",
+              "0.001953125,64",
+              "366.3384,64",
+              "0.02050781,64"
             ],
             "MaterialIndex": [
               0,
@@ -217440,7 +217440,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Box (658)",
-      "Position": "2496,2976,384",
+      "Position": "2512,2976,384",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "",
@@ -217465,17 +217465,17 @@
           "IsTrigger": false,
           "Mesh": {
             "Topology": "H4sIAAAAAAAACl2QCQ7CMAwEp4Qj3NBy/f+laMRGsohUVbFn1+t04ANs+Z0VsM69AwfgBFyAKZ9MPXdgk3qLnsI+Um/h/me9i2ZXfFvYOazafTJN0XRgKZmPyWtfXvYVL73PZRd52WdYPa7xtC8veys7u6t17/7t6Tn0ZtFjvIXZR895zjKjPWf4NiOrGt+ivpXZ3XnozaOndVn9vvVkkTjEAQAA",
-            "Position": "2496,2976,384",
+            "Position": "2512,2976,384",
             "Rotation": "0,0,0,1",
             "Positions": [
-              "-512,-128,112",
-              "512,-128,112",
-              "512,128,112",
-              "-512,128,112",
-              "-512,128,-112",
-              "512,128,-112",
-              "512,-128,-112",
-              "-512,-128,-112"
+              "-528,-128,112",
+              "528,-128,112",
+              "528,128,112",
+              "-528,128,112",
+              "-528,128,-112",
+              "528,128,-112",
+              "528,-128,-112",
+              "-528,-128,-112"
             ],
             "Blends": [
               "0,0,0,0",
@@ -217530,20 +217530,20 @@
               "0,0,0,0"
             ],
             "TextureCoord": [
-              "94,-89",
+              "95,-89",
               "3.875,-0.96875",
-              "94,-97",
+              "95,-97",
               "5.5625,-0.96875",
               "62,-97",
-              "-5.875,-0.96875",
+              "-5.9375,-0.96875",
               "62,-89",
               "-6.0625,-0.96875",
-              "94,-97",
+              "95,-97",
               "-3.875,-0.53125",
-              "94,-89",
+              "95,-89",
               "6.0625,-0.53125",
               "62,-89",
-              "5.875,-0.53125",
+              "5.9375,-0.53125",
               "62,-97",
               "-5.5625,-0.53125",
               "-5.5625,-0.96875",
@@ -217551,9 +217551,9 @@
               "-6.0625,-0.53125",
               "-3.875,-0.96875",
               "5.5625,-0.53125",
-              "5.875,-0.96875",
+              "5.9375,-0.96875",
               "6.0625,-0.96875",
-              "-5.875,-0.53125"
+              "-5.9375,-0.53125"
             ],
             "TextureUAxis": [
               "1,0,0",
@@ -425293,7 +425293,7 @@
     "GameObjectSystems": {
       "Sandbox.Clutter.ClutterGridSystem": {
         "Storage": {
-          "$blob": "eb250346-03f1-4ad7-b0ab-16f7fcf38128"
+          "$blob": "723edf2c-e08d-4082-97c9-5358dd487bee"
         }
       },
       "Sandbox.MovieMaker.MovieRecorderSystem": {
