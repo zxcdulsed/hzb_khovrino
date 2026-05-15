@@ -1,7 +1,7 @@
 {
   "Title": "hzb_khovrino",
   "Type": "addon",
-  "Org": "local",
+  "Org": "newtsifry",
   "Ident": "hzb_khovrino",
   "Schema": 1,
   "IncludeSourceFiles": false,
@@ -23,6 +23,7 @@
     "PerMapRanking": false,
     "LeaderboardType": "None",
     "CsProjName": "",
-    "StartupScene": "scenes/hzb_khovrino.scene"
+    "StartupScene": "scenes/hzb_khovrino.scene",
+    "ParentPackage": "facepunch.sandbox"
   }
 }
