@@ -1,0 +1,22 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "hzb_khovrino",
+      "Type": "map",
+      "Org": "newtsifry",
+      "Ident": "hzb_khovrino",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "scenes/hzb_khovrino.scene",
+        "ParentPackage": "facepunch.sandbox"
+      }
+    }
+  }
+}
