@@ -2,21 +2,21 @@
   "publish": {
     "Enabled": false,
     "ProjectConfig": {
-      "Title": "Hzb Khovrino",
-      "Type": "map",
+      "Title": "Test",
+      "Type": "model",
       "Org": "local",
-      "Ident": "hzbkhovrino",
+      "Ident": "test",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
-      "PackageReferences": [],
+      "PackageReferences": null,
       "EditorReferences": [
-        "facepunch.floor_grass_wet_cliff_a#314013"
+        "facepunch.sandbox#312480"
       ],
       "Mounts": null,
       "IsStandaloneOnly": false,
       "Metadata": {
-        "SingleAssetSource": "maps/hzb_khovrino.vmap",
+        "SingleAssetSource": "models/hospital/test.vmdl",
         "ParentPackage": "facepunch.sandbox"
       }
     }
