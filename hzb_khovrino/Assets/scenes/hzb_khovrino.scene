@@ -60197,6 +60197,62 @@
       "Children": []
     },
     {
+      "__guid": "904178c6-a127-4c1b-8e93-b0d16a3067a3",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Box (5013)",
+      "Position": "304.000061,4360,2304",
+      "Rotation": "0,0,0,1",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "d5ff91f8-1f0f-4296-b923-5dc0b1e59132",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "7492b717-3b1f-8d15-9772-15d5ac5eb98a"
+            },
+            "Materials": [
+              "materials/dev/reflectivity_30.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
       "__guid": "fb47a692-7029-4767-91e5-a20c2918fe27",
       "__version": 2,
       "Flags": 0,
@@ -95586,7 +95642,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "bcd83bda-c96f-866d-a576-e64dd37b30aa"
+              "$blob": "aba7ece9-f2d8-8eec-8507-17badca7b84d"
             },
             "Materials": [
               "materials/dev/dev_measuregeneric01.vmat",
@@ -95643,7 +95699,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "b31e620e-a146-8867-b4f3-380501f365ad"
+              "$blob": "560faa33-1e38-87d9-ac71-c4de24479c49"
             },
             "Materials": [
               "materials/dev/dev_measuregeneric01.vmat",
@@ -95700,7 +95756,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "28a21669-b067-8475-9e86-70ac8d9d2466"
+              "$blob": "df36c0f3-3ee9-8a9a-b968-dc48ba7db36f"
             },
             "Materials": [
               "materials/dev/reflectivity_30.vmat"
@@ -95756,7 +95812,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8ff3cac4-e00a-8635-a487-d53f8609df50"
+              "$blob": "041cf9e8-d317-89f1-8cbf-d2d003c1b4c4"
             },
             "Materials": [
               "materials/dev/dev_measuregeneric01.vmat",
@@ -95813,7 +95869,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "35bbf7ec-3bc8-80e8-8464-8242e7ebcf3d"
+              "$blob": "219ae537-6143-8fa4-a45d-122e12479865"
             },
             "Materials": [
               "materials/dev/dev_measuregeneric01.vmat",
@@ -95870,7 +95926,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "88f0cc53-2a69-8948-badb-68a618633d72"
+              "$blob": "afd2d613-eb6d-83f7-8f44-12ab40a2654a"
             },
             "Materials": [
               "materials/dev/dev_measuregeneric01.vmat",

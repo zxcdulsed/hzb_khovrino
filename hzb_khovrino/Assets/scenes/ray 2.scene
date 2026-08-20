@@ -1528,7 +1528,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Box (4416)",
-      "Position": "2176,1068.30774,696",
+      "Position": "2176,1040,696",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "world",
@@ -1553,7 +1553,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "55087219-3d6f-8d4b-b851-b38e9b0d67e6"
+              "$blob": "dc9278cf-ea25-8015-9fe9-8621ad5a0f7e"
             },
             "Materials": [
               "materials/dev/reflectivity_30.vmat",
