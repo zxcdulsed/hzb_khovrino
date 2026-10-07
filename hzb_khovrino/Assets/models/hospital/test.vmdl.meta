@@ -1,4 +1,5 @@
 {
+  "guid": "eaf00c08-0289-0000-1482-60b9f97f0000",
   "publish": {
     "Enabled": false,
     "ProjectConfig": {
@@ -11,7 +12,7 @@
       "Resources": null,
       "PackageReferences": null,
       "EditorReferences": [
-        "facepunch.sandbox#368964"
+        "facepunch.sandbox#410335"
       ],
       "Mounts": null,
       "IsStandaloneOnly": false,

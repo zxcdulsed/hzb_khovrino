@@ -18715,7 +18715,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Block (13)",
-      "Position": "392,2096,552",
+      "Position": "392,2280,552",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "world",
@@ -18740,7 +18740,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "4a241821-722c-889b-b7f2-a05e5c76efa1"
+              "$blob": "9dd3264d-5c95-80fd-9497-e50e920be43c"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -20928,6 +20928,7 @@
   ],
   "SceneProperties": {
     "NetworkInterpolation": true,
+    "PhysicsMode": "Physics3D",
     "TimeScale": 1,
     "WantsSystemScene": true,
     "Metadata": {},
@@ -20963,7 +20964,7 @@
   "Title": null,
   "Description": null,
   "__references": [
-    "facepunch.sandbox#368672"
+    "facepunch.sandbox#368964"
   ],
   "__version": 3
 }
