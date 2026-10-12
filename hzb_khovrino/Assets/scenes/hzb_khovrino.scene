@@ -8328,10 +8328,9 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "2cc7cc94-240d-8030-82a5-3cf3eeda5865"
+              "$blob": "78345f01-5218-8253-94de-a90ba18a3b53"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat",
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
@@ -25273,10 +25272,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "3de291f7-e58f-805b-94e3-41728bbba1d1"
+              "$blob": "d532715c-474b-85d2-8e26-e60fb805f34c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28410,10 +28409,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "c2bde2e2-5a05-8f28-acbf-78654437e8cf"
+              "$blob": "609c38cb-75df-888c-b421-bb99c2b242eb"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28466,10 +28465,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "eb0599d9-337f-80b0-8730-bc7f440174f5"
+              "$blob": "ce7baf96-65ed-8d22-83ad-6c8dc3b94576"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28522,10 +28521,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "a3c8e209-8f09-8e65-95da-cc1124e1a480"
+              "$blob": "ddc0c579-9dbc-8ef8-8b14-943c9c878482"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28578,10 +28577,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "3af2d7d1-d782-8705-a829-4646456aff0e"
+              "$blob": "9761be70-5ebd-88d4-9e40-fdef0a603ffb"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28746,10 +28745,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "b0ba6341-1d57-87b5-990a-6a3f913ac36a"
+              "$blob": "33a597f1-f9aa-82bd-b326-a73bbc1ddf68"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28802,10 +28801,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "9e3a4816-4a18-8077-92c5-24027b0b83d9"
+              "$blob": "b4f9878f-6390-87f9-8cbb-39779f926f35"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28858,10 +28857,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "614cb9e0-d642-8628-95bc-c91cb0536164"
+              "$blob": "c900992f-a413-8f49-a6a4-9094cdd820bb"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -28914,10 +28913,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "e8ccc3d9-5805-8fd4-8cbd-92ae8dc639aa"
+              "$blob": "d75738cb-8a1d-8659-9289-8108c0d430c4"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30090,10 +30089,11 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "734b3c11-94dc-8f6f-9582-306ea29b3491"
+              "$blob": "18b6c241-6618-85d9-a194-14ba986aca7c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/dev/reflectivity_30.vmat",
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30146,10 +30146,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "78f6d415-6783-87ad-b45c-050ca02ea8d3"
+              "$blob": "c99b7236-d068-803f-b9db-a5dd943a7711"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30202,10 +30202,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "f7e6d702-2924-8e69-b85f-1d5c8ee0b069"
+              "$blob": "d8dee5b7-5d2d-8cd1-a8c1-f02f7841e7ba"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30258,10 +30258,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "3e2d8a4c-fac2-80a5-89e1-0a5b87a529f1"
+              "$blob": "62902669-f14d-8d40-a473-7193a3407428"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30314,10 +30314,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "76cc6bb5-cf81-8c3a-905f-c17bb254c7db"
+              "$blob": "7d42ce79-860c-8dca-bfe5-b1fdd34326af"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30370,10 +30370,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "c52be432-2a4a-862c-b18d-d95e395951b4"
+              "$blob": "76798004-0f7c-8dd3-9c2e-5030fed3e5fa"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30426,10 +30426,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8badeda8-c519-8002-9621-f8be53bdfd02"
+              "$blob": "842c4375-e398-888f-847b-811fb243d5ff"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30482,10 +30482,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "1636cb21-1560-8c57-afd4-aa05475dfb56"
+              "$blob": "2d703a0e-dc08-8080-aaa9-5a0513fa2a2c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30538,10 +30538,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "a7cc914a-21f2-854c-8c10-e15f3c9b90ca"
+              "$blob": "caad3909-60c9-898c-a438-0e3498a64d9e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -30594,10 +30594,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "a007d5e2-c1bb-8c36-b74d-9ae783f317a4"
+              "$blob": "dabf8b18-f902-86d6-a41d-10d8d63d0f95"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33370,10 +33370,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "74045100-93aa-840e-b8a3-e1b614a855da"
+              "$blob": "f925c138-3c65-8b10-8d52-082de1a1b233"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33426,10 +33426,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "599aaf27-25dc-80bc-8eca-f9ae3da50edb"
+              "$blob": "1e329be5-8e7b-8d38-acfb-6f87b6a0a165"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33482,10 +33482,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "9cf75ec3-2bc3-8d68-bff6-e7016caab092"
+              "$blob": "389bc68a-3a38-841e-9dc2-9c685fdc79ec"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33538,10 +33538,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "101ca4e5-08e3-8284-a058-55e2bafb8428"
+              "$blob": "1d09bd41-8231-8b1b-bcb8-98688d20c9be"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33594,10 +33594,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "32e4e50d-f4c3-8d8a-a00c-ddd2ab704944"
+              "$blob": "f6b8b379-5464-8db5-a8c6-f3dac96542f1"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33650,10 +33650,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ab5ca5bb-840e-8083-9795-790950c81567"
+              "$blob": "32f5a227-9321-8234-84d8-d21c3dc78ba0"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33706,10 +33706,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "a47aaae2-7b0c-8b2a-8ab4-c1e432cbe222"
+              "$blob": "55eae0d7-dc01-88bc-a04d-ff642c35348f"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33762,10 +33762,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "061e53f6-1782-8285-ae3a-9208f8d96590"
+              "$blob": "3ccd444d-0ff8-8209-9aee-8942f60f1411"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33818,10 +33818,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8a04e168-5fd9-8775-8634-07d29597d479"
+              "$blob": "4f78e98f-bc98-8702-9098-5ee051683ca6"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33874,10 +33874,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "042b3945-6980-8c2b-b963-5006e4f010fd"
+              "$blob": "37eec539-4936-87a5-a9c0-3c980b10750e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33930,10 +33930,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "5132904a-10f6-873c-a3b0-2876f77ad1a4"
+              "$blob": "df80fb70-b9b6-8b73-9317-efd0c107d432"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -33986,10 +33986,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "d6f274c4-1f0f-8e13-9180-a03d6c7d24c0"
+              "$blob": "c6ac753e-408d-8176-b569-b591836d803d"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -34042,10 +34042,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "44fedcbf-afb1-8714-9b84-dcffd9568bea"
+              "$blob": "43d80287-2914-824b-8f45-19b6659a3d3e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -36282,10 +36282,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "30955688-fbb1-8808-8826-651cb0889178"
+              "$blob": "a8491ade-d19c-86c3-aafa-f7d390424e99"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -36338,10 +36338,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "d5e038d6-effd-8339-8e91-f4e64dd07e70"
+              "$blob": "c242520a-301d-8680-8e16-1ca1a6ee2fb6"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -36394,10 +36394,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "5e297205-a0c9-8258-b192-6b25b835946f"
+              "$blob": "19e3e486-aae4-8989-862f-45e23ab1a17e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -51129,7 +51129,7 @@
               "$blob": "e316185f-c6ba-8f34-9888-82e7aa4d51a8"
             },
             "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -53596,7 +53596,7 @@
               "$blob": "20c5216d-2005-829f-acb7-ff212b7e5857"
             },
             "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -53652,7 +53652,7 @@
               "$blob": "3ce80bb8-6fb9-8575-9626-36da66e01220"
             },
             "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -57910,7 +57910,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Box (4111)",
-      "Position": "2704.00098,1232,2432",
+      "Position": "2704.00098,1232,2416",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "world",
@@ -57935,7 +57935,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "bd57a6df-ae5c-8521-9688-838c9114d7e4"
+              "$blob": "663c1b61-721d-8877-94a2-1cffff7d4b78"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
@@ -57967,7 +57967,7 @@
       "__version": 2,
       "Flags": 0,
       "Name": "Box (3426)",
-      "Position": "-2096,1232,2432",
+      "Position": "-2096,1232,2416",
       "Rotation": "0,0,0,1",
       "Scale": "1,1,1",
       "Tags": "world",
@@ -57992,7 +57992,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8a973ad9-6e94-8f6c-8ab8-e955424a82aa"
+              "$blob": "4719b5aa-2c59-82e9-952b-89fe3742cbfd"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
@@ -88074,10 +88074,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "acb28c7e-3d4f-8adc-b690-1540496636dc"
+              "$blob": "d169f8b9-56e7-820e-889d-7da3eb2caf55"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88130,10 +88130,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "139a09e7-61f4-8bc8-bb46-6d3a77ac65b8"
+              "$blob": "facddcb1-afe5-82c0-88d8-83d3513e213f"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88186,10 +88186,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "acb28c7e-3d4f-8adc-b690-1540496636dc"
+              "$blob": "632aa8b3-b905-80e2-8b61-a0acc479109c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88242,10 +88242,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "95c244f3-330a-84d3-96d0-ab512c4607d8"
+              "$blob": "3731cab8-3dfe-817e-98bd-90eb2cb2f9de"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88298,10 +88298,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "40270cb1-ee4d-876c-a59d-199545906d12"
+              "$blob": "68750bf7-6930-81b7-8d94-c603b85d6983"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88354,10 +88354,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "17d79537-81c5-86df-8d9d-088afaa32140"
+              "$blob": "cbbd78e3-a59b-844d-8b15-94734f95c8dd"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88410,10 +88410,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "1b55ae78-5c99-8505-96c8-5bd6e348d460"
+              "$blob": "3028c732-f83a-8d9d-b6dd-72b409b92af8"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88466,10 +88466,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "161879b8-6d1b-871d-92ae-4c2b24af31de"
+              "$blob": "8e6a8016-94b7-8a5e-b35d-e8f6f9a73829"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88522,10 +88522,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "e211b912-cbff-816b-8c0b-74e601094f5f"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88578,10 +88578,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "c122294a-5d6d-8ced-a9db-70890a07f878"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88634,10 +88634,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "431e9499-7fc7-8135-9e83-dd4339d03c17"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88690,10 +88690,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "01d09cc2-3cba-8d2b-acf5-9a7f711be2f1"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88746,10 +88746,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "66bc3ccc-9950-854c-bc9b-340d3356eeb8"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88802,10 +88802,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "2eac7302-1941-819e-a1ad-11917f95e2b8"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88858,10 +88858,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "2fab4e87-92e2-8250-b802-33cfd64be83e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88914,10 +88914,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "8f9062f6-6e96-894d-abd4-14c78999bf62"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -88970,10 +88970,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "40c361b4-3fa1-847c-ae7f-23c0a152d5fa"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -89026,10 +89026,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "46f03fd3-4953-8987-b18b-fc97eb0bbf52"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -91887,10 +91887,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "f7bc20b4-500d-86fb-be39-c13fb02bbf9b"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -91943,10 +91943,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "ffb343c5-8162-8174-b16a-5b60815a00a5"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -91999,10 +91999,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "13e03885-77dd-89ee-89d2-b67985f33c59"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92055,10 +92055,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8526a72e-f9f4-8272-9081-00ae0ac3661e"
+              "$blob": "c418749f-4113-86d8-800f-e196029fed9b"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92111,10 +92111,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "cdaaf135-4e01-8e6f-878f-a3c84393015c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92167,10 +92167,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "0de319e0-fffa-8f55-9c2b-f3523f017f67"
+              "$blob": "a77c75e8-a9ce-8a05-a0fc-49c002118897"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92223,10 +92223,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ee2e24a8-673f-860f-8f51-673003cd5cc7"
+              "$blob": "cc92bdbc-a1b9-8b96-9e41-5436e8bc853c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92279,10 +92279,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "0de319e0-fffa-8f55-9c2b-f3523f017f67"
+              "$blob": "049c6013-f40c-8547-a366-1ac5e666b461"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92335,10 +92335,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ffce0d5e-3c14-8827-b40a-17841f68ee2b"
+              "$blob": "b17e3118-a0ac-86a0-884b-b501bec32d7c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92391,10 +92391,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "059663e1-8e47-87e6-bcbd-357e72c869f4"
+              "$blob": "242b0fb4-63e1-8827-b798-bc34f311dc43"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92447,10 +92447,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "f846f4c8-ebfb-88a6-8eea-09f914f9b759"
+              "$blob": "9d465b6f-8372-8170-b65e-2a839f0e4382"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92503,10 +92503,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "8bf3d1cc-4bb5-87fa-9cff-cafa392e9d3f"
+              "$blob": "ba687806-829d-8e73-bdd6-8e270f5f0c71"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92559,10 +92559,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "7dbf1d1a-370a-8dad-8711-1197c97d0c61"
+              "$blob": "60ddd4ee-fedb-8d86-8f72-5ee279af0995"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92615,10 +92615,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "b8753782-5059-81eb-8f14-e3160e43969e"
+              "$blob": "44decb24-4fba-8261-8f19-3b73cad693e3"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92671,10 +92671,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "2b12b547-9580-847c-bc39-8a13b8e5d103"
+              "$blob": "115fe319-da8c-801c-ad30-a623aba62a41"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92727,10 +92727,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "9650dab5-e719-81ee-b27b-dc8e1625080f"
+              "$blob": "4955280d-6a46-88d3-aa1a-2f8c002b72e5"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92783,10 +92783,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "e0b08af3-db41-869b-8a17-0e85eec93f03"
+              "$blob": "88f1b8cc-446e-8bf0-936c-5635339c0b2b"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92839,10 +92839,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "73327a98-acd6-86a4-8f81-1a5cf6b9af44"
+              "$blob": "6bc53e8d-2e68-8088-a6c3-97d736b7ead8"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92895,10 +92895,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "da359d47-6c62-871c-9060-3c802102998d"
+              "$blob": "96d73e69-f0ea-8c2d-a27c-da691bf3f286"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -92951,10 +92951,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "a58fb3c0-7d3b-8fcc-8dd7-84a1d4cad83a"
+              "$blob": "9a44627f-985e-8ee9-9170-02c755e61fb3"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93007,10 +93007,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "b664dbdd-133e-8c80-9eb1-24e3557b8e22"
+              "$blob": "a32abb8a-9af9-8b7c-ba7d-fd59d12887f5"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93063,10 +93063,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "abdb5b40-d131-83a1-9a25-9aee79065afc"
+              "$blob": "00ba6214-7398-8069-8da3-6e8e1a1520bc"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93119,10 +93119,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "68a3800d-8cb2-8c5d-aa37-0796fbcfbe9e"
+              "$blob": "7f42e46f-42bd-820f-afc6-7bb3a926733e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93175,10 +93175,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "47da5de9-6c6f-8679-a591-bf180cbef8cd"
+              "$blob": "98e9efa3-2685-8b6d-910c-608a2d19d334"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93231,10 +93231,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "95e3eba7-90ac-8af4-8b2c-55aac76207cc"
+              "$blob": "ecf05f16-4aed-8c63-bfbb-04677cab4f42"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93287,10 +93287,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "84576771-95b0-88ef-a133-21835c04106f"
+              "$blob": "a7f222c6-807f-8387-8205-8f8cd97f9f40"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93343,10 +93343,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ca1428c2-fbe9-8f8b-abbe-46fdede0abac"
+              "$blob": "38241470-1093-8742-83be-55bce49554e8"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93399,10 +93399,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "b8305027-ea6c-8bd8-99de-2518a4890043"
+              "$blob": "7997661e-a9bc-8526-903e-f7757d0f1ad9"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93455,10 +93455,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "4d9a60cd-1aae-8264-acc3-fae49258e568"
+              "$blob": "f0886346-7b7e-879c-89f2-96bf63af4318"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93511,10 +93511,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "62b1340e-9efe-80d6-85c6-5dffc573b9ad"
+              "$blob": "cb8f20b7-a3f3-887f-a4d8-4aef4a1fbdbd"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93567,10 +93567,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "bcfdcffa-6acd-8a7b-a2a3-898d4fc26a37"
+              "$blob": "3bbd7090-cd60-805f-bfbc-8f8c513c0a86"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93623,10 +93623,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "55b580ae-5ef6-82ac-a2d7-ec055ec6d1a4"
+              "$blob": "1315e2a4-a2a0-8769-8fab-7d821064ae78"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93679,10 +93679,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ad97c0c4-9fde-8424-a575-f60cca2770a5"
+              "$blob": "d34364cc-a21a-8bf8-963b-2b43da82af83"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93735,10 +93735,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "a2e3fcac-c5a8-818f-b18b-4504d62dd040"
+              "$blob": "02842de4-121b-853c-b39f-4296d7c67ec5"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93791,10 +93791,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "e1672881-21f5-8f05-a1a1-cbec2abbe846"
+              "$blob": "8092e593-17b8-8fda-89a3-9e45ec9f2ae9"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93847,10 +93847,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "d434ef3a-2cfc-8d2a-afc9-5e74cce2f009"
+              "$blob": "b2c12e06-373d-8b07-896f-22f5497d65c7"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93903,10 +93903,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "c46a6fa0-de86-8471-9473-145bf4d8b187"
+              "$blob": "f5c5a85f-8017-871b-8d87-36ef540c4f2b"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -93959,10 +93959,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "32de14ef-f4f0-8191-9fc7-e0859c9fbfc8"
+              "$blob": "18c515ee-94ba-801a-b2c5-84b6f4a7e225"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -94015,10 +94015,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "2a29a107-eb71-8a38-87e6-1a9d8e051e92"
+              "$blob": "b50bce9b-73b8-84fe-95bf-7cf57838fe03"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -94071,10 +94071,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "80ff6b1a-f6ca-8ad5-abce-c161cf47bfcd"
+              "$blob": "9c4e8592-8326-815c-a4d9-d84c63eff220"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -94127,10 +94127,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "1d9d9732-c7a2-88cb-b2b4-51ca6883ed77"
+              "$blob": "aad15a02-feb1-8839-8c87-9801a09b54e6"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -94183,10 +94183,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "cf8e7f6a-a71e-8267-b709-53b42622a082"
+              "$blob": "9ffd03d5-9c77-8cbc-a21c-844c92d3b74c"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101632,10 +101632,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "f8776e09-43cf-815a-af4c-67f2613fd25d"
+              "$blob": "3285187e-8863-868a-ad75-bb36bdc741ab"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101688,10 +101688,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "71928f1d-7aae-8189-abab-64fa72ec3084"
+              "$blob": "4a1317b5-b79c-8aaa-8d65-c84499b8a952"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101744,10 +101744,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "0e0306a0-621b-81a5-9f2d-ee200ec9ae88"
+              "$blob": "67311e1d-300f-8022-8df7-15931d521cd9"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101800,10 +101800,11 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "bdde23cf-cc84-8a4f-bb74-44577db960d0"
+              "$blob": "3c2adb44-c9ab-88e8-832b-5ffb505670ea"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/dev/reflectivity_30.vmat",
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101856,10 +101857,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "1031e3ec-c9c8-87a0-8c84-237f41463e2b"
+              "$blob": "b8b8215f-9f66-85e3-bbc8-541a22f6529b"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101912,10 +101913,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "6c0065ad-3900-8890-b662-b05d61bcfac4"
+              "$blob": "73d14eb2-1132-84f4-97eb-ee42762dd8ef"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -101968,10 +101969,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "6cdc9604-6372-8a7d-a53f-a48187f76dfd"
+              "$blob": "3633dcb6-2328-807b-a3f6-3c191d55bcf1"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -102024,10 +102025,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "45568508-83ee-8a91-9ec9-80db4ca63b00"
+              "$blob": "57573922-ce47-8514-8223-a50e15971472"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -102080,10 +102081,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "d9561623-faf7-8482-ab94-46a9a240931d"
+              "$blob": "127d059e-a67e-8101-acc8-54f2408178ad"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -102136,10 +102137,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "32361da2-a92e-8dc3-b201-b8a9208cd944"
+              "$blob": "b5e53d9b-ab5d-89fd-aec2-8697ac3a0a9e"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_brick_wall.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -162077,11 +162078,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "0098f062-b4e0-8af8-816d-cd627368d5ad"
+              "$blob": "1ffd9db4-857b-81de-90f9-589d251d03f5"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat",
-              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -163693,11 +163693,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "0878af8b-1318-8ca2-bcce-559bbfe9f9a0"
+              "$blob": "84ecb175-818c-8525-940d-119eccd85596"
             },
             "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -163859,11 +163858,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "246a0713-5e4c-80cf-9fdc-e37384431c19"
+              "$blob": "35c34fc5-4e91-820b-bd24-4ba0f857a9ca"
             },
             "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -163916,10 +163914,10 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "e3ea7f8e-a82e-8081-a87b-06c45b0881eb"
+              "$blob": "247819d4-447a-8b0f-913d-b1fb3ee874ba"
             },
             "Materials": [
-              "materials/dev/reflectivity_30.vmat"
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
             ]
           },
           "OnComponentDestroy": null,
@@ -166050,6 +166048,246 @@
         }
       ],
       "Children": []
+    },
+    {
+      "__guid": "ca043a17-4f31-4012-8b78-00170294e78c",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Block (2795)",
+      "Position": "14542.9336,10873.8555,672",
+      "Rotation": "0,0,-0.130526677,0.991444886",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "d56538eb-6a3e-4b7a-9ebd-496253a26668",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "2ae866b7-13f7-864a-9ab2-f05763295815"
+            },
+            "Materials": [
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat",
+              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
+              "materials/dev/dev_measuregeneric01.vmat",
+              "materials/hzb_khovrino/hospital/hzb_mosaic_tiles.vmat",
+              "materials/dev/dev_measuregeneric01b.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "2071eebc-fcce-44a8-92c0-05a2b30bad94",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Block (2796)",
+      "Position": "14374.3955,8699.38281,672",
+      "Rotation": "0,0,-0.130526677,0.991444886",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "f4d19979-02a0-4878-8f44-7b314fa86e96",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "2ae866b7-13f7-864a-9ab2-f05763295815"
+            },
+            "Materials": [
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat",
+              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
+              "materials/dev/dev_measuregeneric01.vmat",
+              "materials/hzb_khovrino/hospital/hzb_mosaic_tiles.vmat",
+              "materials/dev/dev_measuregeneric01b.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "5b6e4860-0a31-44a2-83ec-a551d5277918",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Block (2797)",
+      "Position": "14252.2207,6512.48633,672",
+      "Rotation": "0,0,-0.130526677,0.991444886",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "fe9b1f62-b8df-4cc9-bd98-fe60aabd6982",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "2ae866b7-13f7-864a-9ab2-f05763295815"
+            },
+            "Materials": [
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat",
+              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
+              "materials/dev/dev_measuregeneric01.vmat",
+              "materials/hzb_khovrino/hospital/hzb_mosaic_tiles.vmat",
+              "materials/dev/dev_measuregeneric01b.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "8ddfe37c-59cf-4859-9cf2-25c4ae641f3f",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Block (2798)",
+      "Position": "14110.4502,4314.27637,672",
+      "Rotation": "0,0,-0.130526677,0.991444886",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "12e0f497-a840-4d06-99e9-da4ec911faf2",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "2ae866b7-13f7-864a-9ab2-f05763295815"
+            },
+            "Materials": [
+              "materials/hzb_khovrino/hospital/hzb_concrete.vmat",
+              "materials/hzb_khovrino/hospital/hzb_roof_number_one.vmat",
+              "materials/dev/dev_measuregeneric01.vmat",
+              "materials/hzb_khovrino/hospital/hzb_mosaic_tiles.vmat",
+              "materials/dev/dev_measuregeneric01b.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
     }
   ],
   "SceneProperties": {
@@ -166091,7 +166329,7 @@
   "Description": null,
   "__references": [
     "facepunch.floor_grass_wet_cliff_a#314013",
-    "facepunch.sandbox#368964"
+    "facepunch.sandbox#422623"
   ],
   "__version": 3
 }
