@@ -112,12 +112,12 @@
       "Children": []
     },
     {
-      "__guid": "4201a05d-b0a7-4fef-ae34-010922238e19",
+      "__guid": "48ee63ed-9213-4713-9bd6-f0adf035497f",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2336)",
-      "Position": "-5664,1712,1064",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2350)",
+      "Position": "-4584,1624.00012,976.000122",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -129,7 +129,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "80ad7797-8d7a-4caa-a3ba-87f64676737f",
+          "__guid": "a0c0737c-ce4a-4c40-81f1-176f6f6d2948",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -141,7 +141,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "b8710501-257e-8320-9b58-077526b60930"
+              "$blob": "17beac42-5177-8081-a104-24c675f59f3b"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -168,12 +168,12 @@
       "Children": []
     },
     {
-      "__guid": "d58e04dd-f5c0-4296-8780-58c53a9fff42",
+      "__guid": "1ccdf1ee-2fbb-4855-8db1-8fd310d987fa",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2335)",
-      "Position": "-5668,1780,1004",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2351)",
+      "Position": "-4580,1596.00012,1004",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -185,7 +185,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "bae6f5ce-e6bb-44a0-af54-8a9de8a6c8df",
+          "__guid": "9008444b-8308-43ce-aaa7-5a35f083b553",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -197,7 +197,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "31a8ba5f-0996-84cd-8e87-49d570cef7d2"
+              "$blob": "c037279f-13e2-8599-b510-fc85f310a268"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -224,12 +224,12 @@
       "Children": []
     },
     {
-      "__guid": "853a727b-5b9e-4cec-80a5-b2c1dc2382bf",
+      "__guid": "ed42a78a-1a04-4962-83cb-497219840841",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2334)",
-      "Position": "-5664,1808,976",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2352)",
+      "Position": "-4580,1532,960.000122",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -241,7 +241,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "63ce915c-11bd-40df-a8ae-b384667646c0",
+          "__guid": "f60d7ae2-9596-4ca6-b7e5-aa439775c769",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -253,7 +253,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "0f9c2e50-8917-8005-9634-5a61df575053"
+              "$blob": "d93c6967-878c-8b47-aee9-fddb16735308"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -280,12 +280,12 @@
       "Children": []
     },
     {
-      "__guid": "8bd1c574-d938-4918-aefa-7a1ae32291e3",
+      "__guid": "15b63534-70b5-4d78-994f-aba6d8999175",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2333)",
-      "Position": "-5664,1712,888",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2353)",
+      "Position": "-4584,1538.90906,904.000244",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -297,7 +297,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "07cc80d5-f0ac-4a8d-a276-22432a1492c6",
+          "__guid": "113bb7b1-524f-4450-8ab4-51a0fe9d19eb",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -309,7 +309,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "11ef0bd6-ddd5-8efa-b5fb-b062dfba54e0"
+              "$blob": "c9d8c0fb-419b-8762-a2a9-6e5ea3cf5424"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -336,12 +336,12 @@
       "Children": []
     },
     {
-      "__guid": "d4a80a4f-d622-4baa-a9b3-6ba6272f1fee",
+      "__guid": "331b5354-1d75-47c2-8406-9be9deb9d3ac",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2332)",
-      "Position": "-5664,1712,904",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2354)",
+      "Position": "-4584,1539.0769,888.000244",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -353,7 +353,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "a624ec5f-12f5-40eb-b07b-78dae67e329e",
+          "__guid": "2a1de12b-4070-4ded-ad8e-9dd40e59f469",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -365,7 +365,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "3ee4a984-e8b1-8859-b242-466056eba682"
+              "$blob": "2a12699e-76c1-8093-9923-6ca7a4c451d5"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -392,12 +392,12 @@
       "Children": []
     },
     {
-      "__guid": "17e0a6ce-9067-4c8f-b971-710f20c29afe",
+      "__guid": "7d390b8f-1d78-47ce-808e-6a3c2622d23e",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2331)",
-      "Position": "-5668,1644,1004",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2355)",
+      "Position": "-4584,1455.99988,976.000122",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -409,7 +409,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "ea77c004-2c94-4c95-b83d-cbf4194c8eda",
+          "__guid": "cfeefdfa-997f-4b8c-8479-01be13b69d8b",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -421,7 +421,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "391c1056-3053-88d2-a8a8-ad2a27340f59"
+              "$blob": "0cbfef96-8560-8bd8-8560-9fcb0ab6971d"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -448,12 +448,12 @@
       "Children": []
     },
     {
-      "__guid": "01916680-8bd5-4a4b-8f8c-02e58b120bd6",
+      "__guid": "cb2c5bff-8d6a-4688-9ebc-8ef535faf203",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2330)",
-      "Position": "-5668,1588,1004",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2356)",
+      "Position": "-4580,1467.99988,1004",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -465,7 +465,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "e297c362-4766-479b-89b6-8cfd03eb6948",
+          "__guid": "8fcadcbd-8814-41ba-b7f5-bcbf2660ce71",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -477,7 +477,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "50f6e61c-7f46-8e42-bd3a-0a0a72e40047"
+              "$blob": "138bb57e-2436-8c65-a9bf-db4fc094a652"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -504,12 +504,12 @@
       "Children": []
     },
     {
-      "__guid": "8905c4a5-d209-4b7c-81b4-8e5d3ae30d94",
+      "__guid": "bc5a5a0a-99ee-405f-a943-da40ea01859f",
       "__version": 2,
       "Flags": 0,
-      "Name": "Block (2329)",
-      "Position": "-5664,1616,976",
-      "Rotation": "0,0,0,1",
+      "Name": "Block (2357)",
+      "Position": "-4584,1539.0769,1064.00024",
+      "Rotation": "0,0,-1.00000012,-4.37113883E-08",
       "Scale": "1,1,1",
       "Tags": "world",
       "Enabled": true,
@@ -521,7 +521,7 @@
       "Components": [
         {
           "__type": "Sandbox.MeshComponent",
-          "__guid": "999c08eb-03ad-4715-8089-0d914adb786b",
+          "__guid": "7d8e790d-7b45-42b4-ac43-0c72f8a8b06f",
           "__enabled": true,
           "Flags": 0,
           "ColliderFlags": 0,
@@ -533,287 +533,7 @@
           "IsTrigger": false,
           "Mesh": {
             "Data": {
-              "$blob": "ef54f182-b699-8bd8-aafd-ac0c691c5dc0"
-            },
-            "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
-            ]
-          },
-          "OnComponentDestroy": null,
-          "OnComponentDisabled": null,
-          "OnComponentEnabled": null,
-          "OnComponentFixedUpdate": null,
-          "OnComponentStart": null,
-          "OnComponentUpdate": null,
-          "OnObjectTriggerEnter": null,
-          "OnObjectTriggerExit": null,
-          "OnTriggerEnter": null,
-          "OnTriggerExit": null,
-          "RenderType": "On",
-          "RollingResistance": null,
-          "SmoothingAngle": 40,
-          "Static": true,
-          "Surface": null,
-          "SurfaceVelocity": "0,0,0"
-        }
-      ],
-      "Children": []
-    },
-    {
-      "__guid": "fae755d0-7553-4ba0-83c3-b82708d7b260",
-      "__version": 2,
-      "Flags": 0,
-      "Name": "Block (2328)",
-      "Position": "-5664,1520,888",
-      "Rotation": "0,0,0,1",
-      "Scale": "1,1,1",
-      "Tags": "world",
-      "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkFlags": 0,
-      "NetworkOrphaned": 0,
-      "NetworkTransmit": true,
-      "OwnerTransfer": 1,
-      "Components": [
-        {
-          "__type": "Sandbox.MeshComponent",
-          "__guid": "aee968de-a120-4266-af68-7888072c3e55",
-          "__enabled": true,
-          "Flags": 0,
-          "ColliderFlags": 0,
-          "Collision": "Mesh",
-          "Color": "0.66667,0.66667,0.66667,1",
-          "Elasticity": null,
-          "Friction": null,
-          "HideInGame": false,
-          "IsTrigger": false,
-          "Mesh": {
-            "Data": {
-              "$blob": "8c872344-4e37-8d85-9628-51575ec893eb"
-            },
-            "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
-            ]
-          },
-          "OnComponentDestroy": null,
-          "OnComponentDisabled": null,
-          "OnComponentEnabled": null,
-          "OnComponentFixedUpdate": null,
-          "OnComponentStart": null,
-          "OnComponentUpdate": null,
-          "OnObjectTriggerEnter": null,
-          "OnObjectTriggerExit": null,
-          "OnTriggerEnter": null,
-          "OnTriggerExit": null,
-          "RenderType": "On",
-          "RollingResistance": null,
-          "SmoothingAngle": 40,
-          "Static": true,
-          "Surface": null,
-          "SurfaceVelocity": "0,0,0"
-        }
-      ],
-      "Children": []
-    },
-    {
-      "__guid": "e8193c27-f160-4447-8483-67f1282f0b2b",
-      "__version": 2,
-      "Flags": 0,
-      "Name": "Block (2327)",
-      "Position": "-5664,1520,904",
-      "Rotation": "0,0,0,1",
-      "Scale": "1,1,1",
-      "Tags": "world",
-      "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkFlags": 0,
-      "NetworkOrphaned": 0,
-      "NetworkTransmit": true,
-      "OwnerTransfer": 1,
-      "Components": [
-        {
-          "__type": "Sandbox.MeshComponent",
-          "__guid": "3873c60a-5edb-4d6a-84ec-86d8517cff95",
-          "__enabled": true,
-          "Flags": 0,
-          "ColliderFlags": 0,
-          "Collision": "Mesh",
-          "Color": "0.66667,0.66667,0.66667,1",
-          "Elasticity": null,
-          "Friction": null,
-          "HideInGame": false,
-          "IsTrigger": false,
-          "Mesh": {
-            "Data": {
-              "$blob": "6f50ed49-ddeb-8565-85ac-605ceb7e1350"
-            },
-            "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
-            ]
-          },
-          "OnComponentDestroy": null,
-          "OnComponentDisabled": null,
-          "OnComponentEnabled": null,
-          "OnComponentFixedUpdate": null,
-          "OnComponentStart": null,
-          "OnComponentUpdate": null,
-          "OnObjectTriggerEnter": null,
-          "OnObjectTriggerExit": null,
-          "OnTriggerEnter": null,
-          "OnTriggerExit": null,
-          "RenderType": "On",
-          "RollingResistance": null,
-          "SmoothingAngle": 40,
-          "Static": true,
-          "Surface": null,
-          "SurfaceVelocity": "0,0,0"
-        }
-      ],
-      "Children": []
-    },
-    {
-      "__guid": "85743e8d-be3e-498b-91c6-6f0f37b822eb",
-      "__version": 2,
-      "Flags": 0,
-      "Name": "Block (2326)",
-      "Position": "-5664,1520,1064",
-      "Rotation": "0,0,0,1",
-      "Scale": "1,1,1",
-      "Tags": "world",
-      "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkFlags": 0,
-      "NetworkOrphaned": 0,
-      "NetworkTransmit": true,
-      "OwnerTransfer": 1,
-      "Components": [
-        {
-          "__type": "Sandbox.MeshComponent",
-          "__guid": "c65423bc-ea6a-4583-b71c-d7a058c893f5",
-          "__enabled": true,
-          "Flags": 0,
-          "ColliderFlags": 0,
-          "Collision": "Mesh",
-          "Color": "0.66667,0.66667,0.66667,1",
-          "Elasticity": null,
-          "Friction": null,
-          "HideInGame": false,
-          "IsTrigger": false,
-          "Mesh": {
-            "Data": {
-              "$blob": "473273d5-7e5b-8a76-b7de-9beb13172d7e"
-            },
-            "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
-            ]
-          },
-          "OnComponentDestroy": null,
-          "OnComponentDisabled": null,
-          "OnComponentEnabled": null,
-          "OnComponentFixedUpdate": null,
-          "OnComponentStart": null,
-          "OnComponentUpdate": null,
-          "OnObjectTriggerEnter": null,
-          "OnObjectTriggerExit": null,
-          "OnTriggerEnter": null,
-          "OnTriggerExit": null,
-          "RenderType": "On",
-          "RollingResistance": null,
-          "SmoothingAngle": 40,
-          "Static": true,
-          "Surface": null,
-          "SurfaceVelocity": "0,0,0"
-        }
-      ],
-      "Children": []
-    },
-    {
-      "__guid": "0db237cc-1827-4e02-8b1b-2cc47c3b4e69",
-      "__version": 2,
-      "Flags": 0,
-      "Name": "Block (2325)",
-      "Position": "-5668,1452,1004",
-      "Rotation": "0,0,0,1",
-      "Scale": "1,1,1",
-      "Tags": "world",
-      "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkFlags": 0,
-      "NetworkOrphaned": 0,
-      "NetworkTransmit": true,
-      "OwnerTransfer": 1,
-      "Components": [
-        {
-          "__type": "Sandbox.MeshComponent",
-          "__guid": "cfb99d54-7a1a-4991-86fc-d9abde16a821",
-          "__enabled": true,
-          "Flags": 0,
-          "ColliderFlags": 0,
-          "Collision": "Mesh",
-          "Color": "0.66667,0.66667,0.66667,1",
-          "Elasticity": null,
-          "Friction": null,
-          "HideInGame": false,
-          "IsTrigger": false,
-          "Mesh": {
-            "Data": {
-              "$blob": "a227cf77-a1be-80e3-beea-bd4733262535"
-            },
-            "Materials": [
-              "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
-            ]
-          },
-          "OnComponentDestroy": null,
-          "OnComponentDisabled": null,
-          "OnComponentEnabled": null,
-          "OnComponentFixedUpdate": null,
-          "OnComponentStart": null,
-          "OnComponentUpdate": null,
-          "OnObjectTriggerEnter": null,
-          "OnObjectTriggerExit": null,
-          "OnTriggerEnter": null,
-          "OnTriggerExit": null,
-          "RenderType": "On",
-          "RollingResistance": null,
-          "SmoothingAngle": 40,
-          "Static": true,
-          "Surface": null,
-          "SurfaceVelocity": "0,0,0"
-        }
-      ],
-      "Children": []
-    },
-    {
-      "__guid": "13b2d406-58e6-4db1-9770-c900a005697f",
-      "__version": 2,
-      "Flags": 0,
-      "Name": "Block (2324)",
-      "Position": "-5664,1424,976",
-      "Rotation": "0,0,0,1",
-      "Scale": "1,1,1",
-      "Tags": "world",
-      "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkFlags": 0,
-      "NetworkOrphaned": 0,
-      "NetworkTransmit": true,
-      "OwnerTransfer": 1,
-      "Components": [
-        {
-          "__type": "Sandbox.MeshComponent",
-          "__guid": "605ed39e-c85b-47f4-84eb-6517d3d675bb",
-          "__enabled": true,
-          "Flags": 0,
-          "ColliderFlags": 0,
-          "Collision": "Mesh",
-          "Color": "0.66667,0.66667,0.66667,1",
-          "Elasticity": null,
-          "Friction": null,
-          "HideInGame": false,
-          "IsTrigger": false,
-          "Mesh": {
-            "Data": {
-              "$blob": "a4f68c39-49e8-84ff-ab83-7426e6418f4a"
+              "$blob": "ed80c731-2083-82f2-8527-9aae748b0191"
             },
             "Materials": [
               "materials/hzb_khovrino/hospital/hzb_concrete.vmat"
@@ -13156,7 +12876,7 @@
   "Title": null,
   "Description": null,
   "__references": [
-    "facepunch.sandbox#368958"
+    "facepunch.sandbox#424029"
   ],
   "__version": 3
 }

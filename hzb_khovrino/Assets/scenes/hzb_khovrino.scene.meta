@@ -1,1 +1,33 @@
-{"publish":{"Enabled":true,"ProjectConfig":{"Title":"hzb_khovrino","Type":"map","Org":"newtsifry","Ident":"hzb_khovrino","Schema":0,"IncludeSourceFiles":false,"Resources":null,"PackageReferences":null,"EditorReferences":null,"Mounts":null,"IsStandaloneOnly":false,"Metadata":{"SingleAssetSource":"scenes/hzb_khovrino.scene","ParentPackage":"facepunch.sandbox"}}},"guid":"00000104-0000-0000-70d1-57ad8e000000","sceneCompileSettings":{"AggregateCost":32,"MaxChunkSize":2048},"sceneCompileDirty":true}
+{
+  "guid": "00000104-0000-0000-70d1-57ad8e000000",
+  "sceneCompileSettings": {
+    "AggregateCost": 32,
+    "MaxChunkSize": 2048
+  },
+  "sceneCompileDirty": true,
+  "WorkshopId": 3818742127,
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "hzb_khovrino",
+      "Type": "map",
+      "Org": "newtsifry",
+      "Ident": "hzb_khovrino",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "AI": {
+        "WriteAgentInstructions": true,
+        "EnableMcpCommunication": true
+      },
+      "Metadata": {
+        "SingleAssetSource": "scenes/hzb_khovrino.scene",
+        "ParentPackage": "facepunch.sandbox"
+      }
+    }
+  }
+}

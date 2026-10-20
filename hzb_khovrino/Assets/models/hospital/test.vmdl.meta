@@ -12,10 +12,13 @@
       "Resources": null,
       "PackageReferences": null,
       "EditorReferences": [
-        "facepunch.sandbox#422623"
+        "facepunch.sandbox#424554"
       ],
       "Mounts": null,
       "IsStandaloneOnly": false,
+      "AI": {
+        "EnableMcpCommunication": true
+      },
       "Metadata": {
         "SingleAssetSource": "models/hospital/test.vmdl",
         "ParentPackage": "facepunch.sandbox"
