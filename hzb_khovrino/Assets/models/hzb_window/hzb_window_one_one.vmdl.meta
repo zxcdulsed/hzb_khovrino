@@ -1,0 +1,28 @@
+{
+  "guid": "9c790ba6-8f52-4b35-a87e-e8d12562eef4",
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Hzb Window One One",
+      "Type": "model",
+      "Org": "local",
+      "Ident": "hzb_window_one_one",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": [
+        "facepunch.sandbox#424554"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "AI": {
+        "EnableMcpCommunication": true
+      },
+      "Metadata": {
+        "SingleAssetSource": "models/hzb_window/hzb_window_one_one.vmdl",
+        "ParentPackage": "facepunch.sandbox"
+      }
+    }
+  }
+}

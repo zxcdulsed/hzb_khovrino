@@ -1,0 +1,342 @@
+{
+  "__guid": "ae0cebd4-572c-4ca8-9d60-797305029ad8",
+  "GameObjects": [
+    {
+      "__guid": "c8e8d23d-37e8-4817-b164-f49fad76533d",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Grass (4)",
+      "Position": "-2603.80469,46225.75,64.0000916",
+      "Rotation": "0,0,0,1",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "0c2ce796-2fa5-4c05-b664-4b4119b0b27a",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "d3c4d86e-a2f5-8e46-a833-af7e37215c83"
+            },
+            "Materials": [
+              "materials/grass/floor_grass_wetdirt_cliff_blend_a.vmat",
+              "materials/dev/reflectivity_30.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "e1a2bad3-0497-4d8d-b083-282f90e75e4d",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Grass (2)",
+      "Position": "38388.0391,480.007812,64.0000916",
+      "Rotation": "0,0,-0.707106769,0.707106769",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "fa45221a-deee-4a6d-9bba-171f82bc0bd7",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "94ece931-31a1-8732-a1f5-08e3e5a645e4"
+            },
+            "Materials": [
+              "materials/grass/floor_grass_wetdirt_cliff_blend_a.vmat",
+              "materials/dev/reflectivity_30.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "206d384c-a691-4523-b735-1ac20d823df8",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Grass (1)",
+      "Position": "-111.601562,-45694.25,64.0000916",
+      "Rotation": "0,0,0,1",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "1d37280a-440e-47fd-89ea-ad201d4c4a25",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "731cf20f-3d6b-8392-a074-350fddd140c6"
+            },
+            "Materials": [
+              "materials/grass/floor_grass_wetdirt_cliff_blend_a.vmat",
+              "materials/dev/reflectivity_30.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "b92dc295-5676-4f00-add9-0336640ac8ce",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "Grass (3)",
+      "Position": "-29955.7969,-7696.00781,64.0000916",
+      "Rotation": "0,0,-0.707106769,0.707106769",
+      "Scale": "1,1,1",
+      "Tags": "world",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.MeshComponent",
+          "__guid": "57df5197-4e16-4cba-a1c9-68446ffd5f81",
+          "__enabled": true,
+          "Flags": 0,
+          "ColliderFlags": 0,
+          "Collision": "Mesh",
+          "Color": "1,1,1,1",
+          "Elasticity": null,
+          "Friction": null,
+          "HideInGame": false,
+          "IsTrigger": false,
+          "Mesh": {
+            "Data": {
+              "$blob": "d1fce83d-622e-8d8c-891b-a1fa8ec44324"
+            },
+            "Materials": [
+              "materials/grass/floor_grass_wetdirt_cliff_blend_a.vmat",
+              "materials/dev/reflectivity_30.vmat"
+            ]
+          },
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "OnObjectTriggerEnter": null,
+          "OnObjectTriggerExit": null,
+          "OnTriggerEnter": null,
+          "OnTriggerExit": null,
+          "RenderType": "On",
+          "RollingResistance": null,
+          "SmoothingAngle": 40,
+          "Static": true,
+          "Surface": null,
+          "SurfaceVelocity": "0,0,0"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "__guid": "2df0abbf-eafc-4276-9642-ee1bbd65be97",
+      "__version": 2,
+      "Flags": 0,
+      "Name": "2D Skybox",
+      "Position": "2072.39648,17843.5039,238.674683",
+      "Rotation": "0,0,-2.96905637E-06,0.999999821",
+      "Scale": "1,1,1",
+      "Tags": "skybox",
+      "Enabled": true,
+      "NetworkMode": 2,
+      "NetworkFlags": 0,
+      "NetworkOrphaned": 0,
+      "NetworkTransmit": true,
+      "OwnerTransfer": 1,
+      "Components": [
+        {
+          "__type": "Sandbox.SkyBox2D",
+          "__guid": "ed216411-fa52-4322-9941-5a9495edafc7",
+          "__enabled": true,
+          "Flags": 0,
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "SkyIndirectLighting": true,
+          "SkyMaterial": "materials/skybox/skybox_day_01.vmat",
+          "Tint": "1,1,1,1"
+        },
+        {
+          "__type": "Sandbox.EnvmapProbe",
+          "__guid": "415a6f36-7960-41fb-85ab-ffa32e0d95ac",
+          "__enabled": true,
+          "Flags": 0,
+          "__version": 1,
+          "BakedTexture": null,
+          "Bounds": {
+            "Mins": "-29536,-55792,-114",
+            "Maxs": "25152,20208,6624"
+          },
+          "DelayBetweenUpdates": 0.1,
+          "Feathering": 0.02,
+          "FrameInterval": 5,
+          "MaxDistance": 512,
+          "Mode": "Baked",
+          "MultiBounce": false,
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "Priority": 0,
+          "Projection": "Sphere",
+          "RenderExcludeTags": "",
+          "Resolution": "Small",
+          "Texture": "textures/cubemaps/default2.vtex",
+          "TintColor": "1,1,1,1",
+          "UpdateStrategy": "OnEnabled",
+          "ZFar": 4096,
+          "ZNear": 16
+        }
+      ],
+      "Children": []
+    }
+  ],
+  "SceneProperties": {
+    "NetworkInterpolation": true,
+    "PhysicsMode": "Physics3D",
+    "TimeScale": 1,
+    "WantsSystemScene": true,
+    "Metadata": {},
+    "NavMesh": {
+      "Enabled": false,
+      "IncludeStaticBodies": true,
+      "IncludeKeyframedBodies": true,
+      "EditorAutoUpdate": false,
+      "AgentHeight": 64,
+      "AgentRadius": 16,
+      "AgentStepSize": 18,
+      "AgentMaxSlope": 40,
+      "ExcludedBodies": "",
+      "IncludedBodies": "",
+      "DeferGeneration": false,
+      "CustomBounds": false
+    },
+    "GameObjectSystems": {
+      "Sandbox.Clutter.ClutterGridSystem": {
+        "Storage": {
+          "$blob": "64db792e-5935-8fbc-8cfa-050cd49fa7fd",
+          "$refs": []
+        }
+      },
+      "Sandbox.SelectionSetsSystem": {
+        "Data": {
+          "SelectionSets": []
+        }
+      }
+    }
+  },
+  "ResourceVersion": 3,
+  "Title": null,
+  "Description": null,
+  "__references": [
+    "facepunch.floor_grass_wet_cliff_a#314013",
+    "facepunch.sandbox#424029"
+  ],
+  "__version": 3
+}
