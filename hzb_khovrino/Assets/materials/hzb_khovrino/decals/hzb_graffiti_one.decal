@@ -1,0 +1,18 @@
+{
+  "ColorTexture": "materials/all/hzb_graffiti_one.png",
+  "NormalTexture": null,
+  "RoughMetalOcclusionTexture": null,
+  "EmissiveTexture": null,
+  "EmissionEnergy": 1,
+  "HeightTexture": null,
+  "ParallaxStrength": 1,
+  "CoverageAmount": 1,
+  "Tint": "1,1,1,1",
+  "BlendMode": "Alpha",
+  "ColorMix": 1,
+  "Width": 16,
+  "Height": 16,
+  "FilterMode": "Anisotropic",
+  "__references": [],
+  "__version": 0
+}

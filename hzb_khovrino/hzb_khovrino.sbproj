@@ -1,11 +1,12 @@
 {
   "Title": "hzb_khovrino",
-  "Type": "addon",
-  "Org": "newtsifry",
+  "Type": "game",
+  "Org": "local",
   "Ident": "hzb_khovrino",
   "Schema": 1,
   "IncludeSourceFiles": false,
   "Resources": null,
+  "PublishUsedAssetsOnly": true,
   "PackageReferences": [],
   "EditorReferences": null,
   "Mounts": null,
@@ -26,7 +27,6 @@
     "PerMapRanking": false,
     "LeaderboardType": "None",
     "CsProjName": "",
-    "StartupScene": "scenes/hzb_khovrino.scene",
-    "ParentPackage": "facepunch.sandbox"
+    "StartupScene": "scenes/basic_example.scene"
   }
 }

@@ -10,10 +10,9 @@
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
+      "PublishUsedAssetsOnly": false,
       "PackageReferences": null,
-      "EditorReferences": [
-        "facepunch.sandbox#424554"
-      ],
+      "EditorReferences": [],
       "Mounts": null,
       "IsStandaloneOnly": false,
       "AI": {
